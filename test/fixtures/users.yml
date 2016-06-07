@@ -2,6 +2,7 @@ david:
   name: David Example
   email: david@obsidianspork.io
   password_digest: <%= User.digest('password') %>
+  admin: true
 
 steen:
   name: Steven Example
