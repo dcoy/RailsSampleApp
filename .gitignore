@@ -22,3 +22,6 @@
 # Ignore Secrets.yml
 
 /config/secrets.yml
+
+# Ignore uploaded test images.
+/public/uploads
